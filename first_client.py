@@ -1,6 +1,7 @@
 # Date: October 21, 2023
 # Adapted from Computer Networking, A Top-Down Approach
 # Authors: James F. Kurose & Keith W. Ross
+# Purpose: TCP client socket in Python
 from socket import *
 
 # Server hostname and port to connect to.
